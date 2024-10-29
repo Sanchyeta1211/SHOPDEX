@@ -12,4 +12,3 @@ Integration with Backend: Utilizes MongoDB for efficient data management, ensuri
 
 #Tech Stack
 Front-End: HTML, CSS, JavaScript
-Back-End: MongoDB (for data storage)
