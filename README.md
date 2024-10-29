@@ -8,7 +8,6 @@ User-Friendly Interface: Designed with a focus on user experience, ensuring easy
 Responsive Design: Fully responsive layout that adapts to various screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
 Dynamic Product Display: Showcases a variety of products with detailed descriptions, images, and prices.
 Shopping Cart Functionality: Users can easily add items to their cart and manage their selections before checkout.
-Integration with Backend: Utilizes MongoDB for efficient data management, ensuring smooth operations and a rich user experience.
 
 #Tech Stack
 Front-End: HTML, CSS, JavaScript
